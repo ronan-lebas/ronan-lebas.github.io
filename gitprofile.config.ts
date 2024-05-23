@@ -50,7 +50,7 @@ const CONFIG = {
       //  },
       //],
     //},
-  //},
+  },
   seo: {
     title: 'Portfolio of Ronan Lebas',
     description: '',
